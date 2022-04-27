@@ -5,9 +5,10 @@ body {
 }
 
 .container {
-    margin: 4vw;
+    margin: auto;
+    max-width: 900px;
+    padding: 1vw;
 }
-
 
 h1 {
     color: #c13657;

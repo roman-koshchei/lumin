@@ -5,14 +5,15 @@
 }
 
 .key {
-    border: 0.2vw solid #fff;
     border-radius: 0.5vw;
-    text-align: center;
-    width: 4.8vw;
-    height: 4.8vw;
-    line-height: 4.8vw;
-    margin: 0.4vw;
-    font-size: 2vw;
+    width: 5.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.3vw;
+    height: 5.5vw;
+    max-height: 45px;
+    font-size: 80%;
 }
 
 .key-sm {
@@ -20,19 +21,19 @@
 }
 
 .key-base {
-    width: 8vw;
+    width: 9vw;
 }
 
 .key-lg {
-    width: 9.57vw;
+    width: 10vw;
 }
 
 .key-xl {
-    width: 11.2vw;
+    width: 12.5vw;
 }
 
 .key-2xl {
-    width: 12.7vw;
+    width: 14vw;
 }
 
 .key-3xl {
