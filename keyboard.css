@@ -16,6 +16,14 @@
     font-size: 80%;
 }
 
+#heatmap {
+    color: #fff;
+}
+
+#layout {
+    color: #1a253b;
+}
+
 .key-sm {
     width: 6.4vw;
 }
@@ -25,7 +33,7 @@
 }
 
 .key-lg {
-    width: 10vw;
+    width: 10.5vw;
 }
 
 .key-xl {
@@ -33,11 +41,11 @@
 }
 
 .key-2xl {
-    width: 14vw;
+    width: 13.5vw;
 }
 
 .key-3xl {
-    width: 16vw;
+    width: 16.5vw;
 }
 
 .key-4xl {
@@ -45,15 +53,19 @@
 }
 
 .pinky {
-    background-color: #717fa4;
-}
-
-.ring {
     background-color: #9b98bc;
 }
 
+.ring-l {
+    background-color: #9eaec1;
+}
+
+.ring-r {
+    background-color: #d09db5;
+}
+
 .middle {
-    background-color:#717fa4;
+    background-color:#9b98bc;
 }
 
 .index-l {
