@@ -1,0 +1,68 @@
+.row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.key {
+    border: 0.2vw solid #fff;
+    border-radius: 0.5vw;
+    text-align: center;
+    width: 4.8vw;
+    height: 4.8vw;
+    line-height: 4.8vw;
+    margin: 0.4vw;
+    font-size: 2vw;
+}
+
+.key-sm {
+    width: 6.4vw;
+}
+
+.key-base {
+    width: 8vw;
+}
+
+.key-lg {
+    width: 9.57vw;
+}
+
+.key-xl {
+    width: 11.2vw;
+}
+
+.key-2xl {
+    width: 12.7vw;
+}
+
+.key-3xl {
+    width: 16vw;
+}
+
+.key-4xl {
+    width: 28.5vw;
+}
+
+.pinky {
+    background-color: #717fa4;
+}
+
+.ring {
+    background-color: #9b98bc;
+}
+
+.middle {
+    background-color:#717fa4;
+}
+
+.index-l {
+    background-color: #9eaec1;
+}
+
+.index-r {
+    background-color: #d09db5;
+}
+
+.thumb {
+    background-color: #8e7a9b;
+}

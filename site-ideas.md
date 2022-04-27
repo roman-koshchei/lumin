@@ -1,0 +1,1 @@
+- When hover the image it slide, change color and key to uppercase
