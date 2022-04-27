@@ -26,11 +26,11 @@ a {
 }
 
 .btn {
-    border: 0.3vw solid #c13657;
-    border-radius: 1vw;
+    border: 3px solid #c13657;
+    border-radius: 8px;
     background-color: #c13657;
     color: #1a253b;
-    padding: 1vw 2vw;
+    padding: 6px 16px;
     margin: 5px;
 }
 
@@ -40,9 +40,9 @@ a {
 }
 
 .btn-light {
-    border: 0.3vw solid #1a253b;
-    border-radius: 1vw;
-    padding: 1vw 2vw;
+    border: 3px solid #1a253b;
+    border-radius: 8px;
+    padding: 6px 16px;
     margin: 5px;
 }
 
