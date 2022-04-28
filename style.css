@@ -59,6 +59,18 @@ a {
     margin-bottom: 7vw;
 }
 
+.download-btn {
+    border-radius: 8px;
+    background-color: #c13657;
+    color: #1a253b;
+    line-height: 40px;
+    padding: 5px 15px;
+}
+
+.download-btn:hover {
+    background-color: #cd4c6a;
+}
+
 .flex {
     display: flex;
     flex-wrap: nowrap;
